@@ -11,8 +11,8 @@ This project contains code (written in Python3) for simulating two mechanisms wh
 The following files are necessary to simulate E-OBO operation:
 
 - `Times.py` -- methods which calculate IEEE 802.11 frame transmission durations.
-- `UORA.py` -- a simulator of the IEEE 802.11ax UORA frame exchange.
-- `EOBO.py` -- implements the E-OBO mechanism and, if executed, runs the simulation.
+- `UORA.py` -- a simulator of the IEEE 802.11ax UORA frame exchange, extended to support the E-OBO mechanism.
+- `EOBO.py` -- allows running static or dynamic simulations.
 
 The simulation can be run as follows:
 
