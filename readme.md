@@ -3,8 +3,7 @@
 This project contains code (written in Python3) for simulating two mechanisms which modify the operation of IEEE 802.11ax UORA OBO countdown:
 
 - Efficient OBO (E-OBO) -- proposed in K. Kosek-Szott and K. Domino, “[An Efficient Backoff Procedure for IEEE 802.11 ax Uplink OFDMA-Based Random Access](https://ieeexplore.ieee.org/abstract/document/9669929),” IEEE Access, vol. 10, pp. 8855–8863, 2022.
-- Reinforcement Learning OBO (RL-OBO) -- proposed in K. Kosek-Szott, S. Szott and F. Dressler, "Improving IEEE 802.11ax UORA Performance: Comparison of Reinforcement Learning and Heuristic
-  Approaches" (under review).
+- Reinforcement Learning OBO (RL-OBO) -- proposed in K. Kosek-Szott, S. Szott and F. Dressler, "Improving IEEE 802.11ax UORA Performance: Comparison of Reinforcement Learning and Heuristic  Approaches", IEEE Access, DOI 10.1109/ACCESS.2022.3221423, 2022.
 
 # E-OBO
 
